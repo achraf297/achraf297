@@ -1,5 +1,5 @@
 <h1>Hey there! 👋</h1>
-I'm a web developer with a focus on building clean, responsive, and user-friendly websites. 
+I'm a web developer with a focus on building clean, responsive, and user-friendly websites. <br>
 I enjoy working on both front-end and back-end projects, turning ideas into functional and visually appealing digital experiences. I’m always learning new tools, improving my skills, and exploring better ways to solve problems with code.
 
 <!---
