@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @achraf297
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML & CSS
-- 📫 How to reach me, instagram : @achraf__527
+Hey there! 👋
+I'm a web developer with a focus on building clean, responsive, and user-friendly websites. I enjoy working on both front-end and back-end projects, turning ideas into functional and visually appealing digital experiences. I’m always learning new tools, improving my skills, and exploring better ways to solve problems with code. Open to collaboration and always curious about what’s next in tech.
 
 <!---
 achraf297/achraf297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
